@@ -105,4 +105,4 @@ In this assessment, I utilized Generative AI as an iterative pair programmer whi
 
 3. **Ensuring Final Code Quality:**
 
-   > I took full ownership of the final architecture. The decisions to use .NET 8, N-Tier architecture, Dependency Injection, and Global Exception Middleware were my intentional architectural choices. The AI was utilized strictly to execute these design decisions efficiently.
+   > I took full ownership of the final architecture. The decisions to use .NET 10, N-Tier architecture, Dependency Injection, and Global Exception Middleware were my intentional architectural choices. The AI was utilized strictly to execute these design decisions efficiently.
