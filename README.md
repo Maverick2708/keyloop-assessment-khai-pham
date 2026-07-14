@@ -4,7 +4,7 @@ A backend service for an Intelligent Inventory Dashboard built with ASP.NET Core
 
 ## Prerequisites
 
-- .NET 8 SDK (or later)
+- .NET 10 SDK (or later)
 - An IDE (Visual Studio, VS Code, or Rider)
 - Git
 
